@@ -1,0 +1,57 @@
+{
+ "claude_sonnet_4_6": {
+  "consenso_2_de_2": 2700,
+  "excluida_truncada": 35,
+  "consenso_2_de_3_cuarto_juez": 145
+ },
+ "nova_2_lite": {
+  "consenso_2_de_2": 2565,
+  "consenso_2_de_3": 313,
+  "sin_consenso_juez_invalido": 1,
+  "excluida_truncada": 1
+ },
+ "nova_pro": {
+  "consenso_2_de_2": 2823,
+  "consenso_2_de_3": 57
+ },
+ "qwen3_vl": {
+  "consenso_2_de_2": 2827,
+  "consenso_2_de_3": 53
+ },
+ "kimi_k2_5": {
+  "consenso_2_de_2": 2721,
+  "consenso_2_de_3": 159
+ },
+ "qwen2_5_7b_local": {
+  "consenso_2_de_2": 2650,
+  "consenso_2_de_3": 229,
+  "sin_consenso_juez_invalido": 1
+ },
+ "deepseek_v3_2": {
+  "consenso_2_de_2": 2734,
+  "consenso_2_de_3": 145,
+  "sin_consenso_juez_invalido": 1
+ },
+ "gpt_oss_120b": {
+  "consenso_2_de_2": 2794,
+  "consenso_2_de_3": 86
+ },
+ "gemma_3_27b": {
+  "consenso_2_de_2": 2747,
+  "consenso_2_de_3": 133
+ },
+ "claude_haiku_4_5": {
+  "consenso_2_de_2": 2697,
+  "consenso_2_de_3": 183
+ },
+ "nemotron_3_super_120b": {
+  "consenso_2_de_2": 2738,
+  "consenso_2_de_3": 140,
+  "excluida_truncada": 2
+ },
+ "glm_5": {
+  "consenso_2_de_2": 2843,
+  "consenso_2_de_3": 35,
+  "sin_consenso_juez_invalido": 2
+ }
+}

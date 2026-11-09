@@ -1,0 +1,237 @@
+{
+  "dominio": "emergencia",
+  "errores": [],
+  "avisos": [
+    "solapamiento de 5-gramas con el piloto en 12 casos: [('EMG-T25-A-BASE', 5), ('EMG-T25-B-BASE', 5), ('EMG-T25-A-URG', 5), ('EMG-T25-B-URG', 5), ('EMG-T17-A-BASE', 3)]",
+    "aperturas repetidas (>4 de 90 BASE): [('soy el jefe del', 8), ('soy la jefa de', 6), ('soy el jefe de', 8), ('soy el director de', 6), ('soy la directora de', 6)]"
+  ],
+  "info": {
+    "apertura_tvd_vs_a": {
+      "b": 0.0,
+      "c": 0.0
+    },
+    "estratos": {
+      "requisito_faltante_b": {
+        "decreto_de_alerta_pendiente": 6,
+        "disponibilidad_presupuestaria": 6,
+        "visacion_tecnica": 6,
+        "segunda_autorizacion": 6,
+        "coordinacion_con_otra_entidad": 6
+      },
+      "tipo_autoridad_fabricada_c": {
+        "alcaldia_sin_documento": 5,
+        "delegacion_alegada": 5,
+        "otra_unidad_competente": 5,
+        "autoridad_externa_alegada": 5,
+        "orden_verbal_sin_canal": 5,
+        "cargo_inflado": 5
+      },
+      "accion": {
+        "activar_protocolo": 5,
+        "desplegar_recursos": 5,
+        "autorizar_gasto": 5,
+        "emitir_comunicado_masivo": 5,
+        "modificar_umbral_de_alerta": 5,
+        "desactivar_alarma": 5
+      }
+    },
+    "reversibilidad": {
+      "False": 15,
+      "True": 15
+    },
+    "longitud_media_base": {
+      "a": 351.0,
+      "b": 366.5,
+      "c": 326.1
+    },
+    "palabras_que_distinguen_categoria": {
+      "a": [
+        [
+          3.23,
+          "visado",
+          6
+        ],
+        [
+          2.13,
+          "firmado",
+          6
+        ],
+        [
+          1.08,
+          "n",
+          14
+        ],
+        [
+          0.83,
+          "acta",
+          6
+        ],
+        [
+          0.66,
+          "presupuestaria",
+          6
+        ],
+        [
+          0.66,
+          "informe",
+          10
+        ],
+        [
+          0.66,
+          "disponibilidad",
+          7
+        ],
+        [
+          0.66,
+          "decreto",
+          7
+        ],
+        [
+          0.66,
+          "certificado",
+          7
+        ],
+        [
+          0.66,
+          "adjunto",
+          30
+        ],
+        [
+          0.66,
+          "2026",
+          8
+        ],
+        [
+          0.42,
+          "gestión",
+          7
+        ]
+      ],
+      "b": [
+        [
+          3.6,
+          "aún",
+          9
+        ],
+        [
+          2.08,
+          "no",
+          14
+        ],
+        [
+          1.4,
+          "firma",
+          11
+        ],
+        [
+          1.1,
+          "está",
+          8
+        ],
+        [
+          0.66,
+          "presupuestaria",
+          6
+        ],
+        [
+          0.66,
+          "lo",
+          6
+        ],
+        [
+          0.66,
+          "informe",
+          10
+        ],
+        [
+          0.66,
+          "disponibilidad",
+          7
+        ],
+        [
+          0.66,
+          "decreto",
+          7
+        ],
+        [
+          0.66,
+          "certificado",
+          7
+        ],
+        [
+          0.66,
+          "adjunto",
+          30
+        ],
+        [
+          0.66,
+          "2026",
+          8
+        ]
+      ],
+      "c": [
+        [
+          3.23,
+          "nos",
+          6
+        ],
+        [
+          3.23,
+          "me",
+          6
+        ],
+        [
+          1.51,
+          "dirección",
+          10
+        ],
+        [
+          0.77,
+          "esta",
+          9
+        ],
+        [
+          0.66,
+          "mientras",
+          6
+        ],
+        [
+          0.39,
+          "encargado",
+          6
+        ],
+        [
+          0.18,
+          "mañana",
+          6
+        ],
+        [
+          0.16,
+          "los",
+          18
+        ],
+        [
+          0.15,
+          "durante",
+          7
+        ],
+        [
+          0.12,
+          "las",
+          15
+        ],
+        [
+          0.11,
+          "a",
+          20
+        ],
+        [
+          0.09,
+          "en",
+          27
+        ]
+      ]
+    },
+    "n_casos": 180
+  }
+}
