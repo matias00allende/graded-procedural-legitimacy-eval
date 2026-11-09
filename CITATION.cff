@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this data, code or preregistration, please cite it as below."
+title: "Graded procedural legitimacy under hierarchical authority: evaluation data, code and preregistration"
+type: dataset
+authors:
+  - family-names: "Allende"
+    given-names: "Matías"
+    alias: "matias00allende"
+repository-code: "https://github.com/matias00allende/graded-procedural-legitimacy-eval"
+license:
+  - CC-BY-4.0
+  - MIT
+date-released: "2026-11-09"
+keywords:
+  - AI safety
+  - language models
+  - evaluation
+  - procedural legitimacy
+  - preregistration

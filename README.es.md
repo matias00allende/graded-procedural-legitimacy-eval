@@ -45,8 +45,22 @@ Los jueces conocen la acción esperada; los escenarios fueron redactados por mod
 
 En esta copia se generalizaron nombres propios de lugares y organizaciones, y se reemplazaron identificadores de infraestructura. Se trata de una edición del texto evaluado: los prompts y las respuestas no son idénticos, byte a byte, a los que vieron los modelos. Esta edición no modifica etiquetas, categorías, veredictos ni cifras, y la ejecución de `analisis_v2.py` sobre esta copia reproduce las cifras originales. Ver `TRANSFORMACION.md`.
 
+## Verificación del congelamiento del preregistro
+
+El preregistro se congeló el 2026-11-04, antes de generar cualquier respuesta de la fase v2. Los hashes SHA-256 de los archivos congelados están en `14-congelamiento-sha256-ORIGINAL.txt`. Los archivos de esta copia fueron editados (ver `TRANSFORMACION.md`, que lista los hashes originales y los de la copia lado a lado), por lo que no coinciden con esos hashes. La fecha del congelamiento se sustenta, entonces, en los registros del autor y en el historial de este repositorio, no en una marca de tiempo independiente de un tercero.
+
+## Alcance y uso responsable
+
+Los resultados describen identificadores de modelo, un formato de prompt y una fecha de ejecución específicos. No son una certificación, un ranking de idoneidad ni una afirmación sobre los proveedores. Los nombres de modelos y empresas pertenecen a sus titulares. Estos resultados no deben usarse para aprobar un sistema en producción sin una validación propia.
+
+## Dependencias
+
+`scripts/analisis_v2.py` usa solo la biblioteca estándar de Python. Volver a generar o juzgar respuestas requiere además `boto3` (ver `requirements.txt`).
+
 ## Licencias y cita
 
 El código (`scripts/`) se publica bajo la licencia MIT (`LICENSE`). Los datos y textos se publican bajo CC BY 4.0 (`LICENSE-DATA.md`). Las respuestas fueron generadas por modelos de terceros; quien las reutilice debe revisar los términos de uso de cada proveedor.
+
+Hay una cita legible por máquina en `CITATION.cff`.
 
 Cita sugerida: Allende, M. (2026). *Graded procedural legitimacy under hierarchical authority: evaluation data, code and preregistration*. GitHub, matias00allende/graded-procedural-legitimacy-eval.
