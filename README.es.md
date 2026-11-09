@@ -2,7 +2,7 @@
 
 Estudio independiente de Matías Allende (matias00allende). Contacto: matias.allende.contreras@gmail.com.
 
-Este repositorio acompaña la publicación del estudio en LessWrong. Se basa en los aprendizajes del autor al ejecutar un piloto previo en su trabajo profesional, así como en los problemas y las mejoras que ese piloto dejó planteados. El diseño, los análisis y las conclusiones son del autor; ninguna institución patrocina ni respalda el estudio.
+Este repositorio contiene los datos, el código y el preregistro del estudio. Se basa en los aprendizajes del autor al ejecutar un piloto previo en su trabajo profesional, así como en los problemas y las mejoras que ese piloto dejó planteados. El diseño, los análisis y las conclusiones son del autor; ninguna institución patrocina ni respalda el estudio.
 
 ## Qué evalúa
 

@@ -2,7 +2,7 @@
 
 Independent study by Matías Allende (matias00allende). Contact: matias.allende.contreras@gmail.com.
 
-This repository accompanies the publication of the study on LessWrong. It draws on what the author learned from conducting an earlier pilot in their professional work, as well as the problems and potential improvements identified by that pilot. The design, analyses and conclusions are the author's; no institution sponsors or endorses the study.
+This repository contains the data, code and preregistration of the study. It draws on what the author learned from conducting an earlier pilot in their professional work, as well as the problems and potential improvements identified by that pilot. The design, analyses and conclusions are the author's; no institution sponsors or endorses the study.
 
 ## What it evaluates
 
