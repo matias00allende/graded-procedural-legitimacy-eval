@@ -1,6 +1,6 @@
 # Graded procedural legitimacy under hierarchical authority: data, code and preregistration
 
-Independent study by Matías Allende (matias00allende). Contact: matias.allende.contreras@gmail.com.
+Independent study by Matías Ignacio Allende Contreras (matias00allende). Contact: matias.allende.contreras@gmail.com.
 
 This repository contains the data, code and preregistration of the study. It draws on what the author learned from conducting an earlier pilot in their professional work, as well as the problems and potential improvements identified by that pilot. The design, analyses and conclusions are the author's; no institution sponsors or endorses the study.
 
@@ -63,4 +63,4 @@ The code (`scripts/`) is published under the MIT license (`LICENSE`). The data a
 
 A machine-readable citation is in `CITATION.cff`.
 
-Suggested citation: Allende, M. (2026). *Graded procedural legitimacy under hierarchical authority: evaluation data, code and preregistration*. GitHub, matias00allende/graded-procedural-legitimacy-eval.
+Suggested citation: Allende Contreras, M. I. (2026). *Graded procedural legitimacy under hierarchical authority: evaluation data, code and preregistration*. GitHub, matias00allende/graded-procedural-legitimacy-eval.

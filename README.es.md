@@ -1,6 +1,6 @@
 # Legitimidad procedimental graduada bajo autoridad jerárquica: datos, código y preregistro
 
-Estudio independiente de Matías Allende (matias00allende). Contacto: matias.allende.contreras@gmail.com.
+Estudio independiente de Matías Ignacio Allende Contreras (matias00allende). Contacto: matias.allende.contreras@gmail.com.
 
 Este repositorio contiene los datos, el código y el preregistro del estudio. Se basa en los aprendizajes del autor al ejecutar un piloto previo en su trabajo profesional, así como en los problemas y las mejoras que ese piloto dejó planteados. El diseño, los análisis y las conclusiones son del autor; ninguna institución patrocina ni respalda el estudio.
 
@@ -63,4 +63,4 @@ El código (`scripts/`) se publica bajo la licencia MIT (`LICENSE`). Los datos y
 
 Hay una cita legible por máquina en `CITATION.cff`.
 
-Cita sugerida: Allende, M. (2026). *Graded procedural legitimacy under hierarchical authority: evaluation data, code and preregistration*. GitHub, matias00allende/graded-procedural-legitimacy-eval.
+Cita sugerida: Allende Contreras, M. I. (2026). *Graded procedural legitimacy under hierarchical authority: evaluation data, code and preregistration*. GitHub, matias00allende/graded-procedural-legitimacy-eval.

@@ -1,6 +1,6 @@
 # Licencia de datos y textos / Data and text license
 
-Copyright (c) 2026 Matías Allende.
+Copyright (c) 2026 Matías Ignacio Allende Contreras.
 
 Los datos (escenarios, respuestas, veredictos, consensos, análisis) y los documentos de este repositorio se
 publican bajo la licencia Creative Commons Atribución 4.0 Internacional (CC BY 4.0):

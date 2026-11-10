@@ -3,8 +3,8 @@ message: "If you use this data, code or preregistration, please cite it as below
 title: "Graded procedural legitimacy under hierarchical authority: evaluation data, code and preregistration"
 type: dataset
 authors:
-  - family-names: "Allende"
-    given-names: "Matías"
+  - family-names: "Allende Contreras"
+    given-names: "Matías Ignacio"
     alias: "matias00allende"
 repository-code: "https://github.com/matias00allende/graded-procedural-legitimacy-eval"
 license:
