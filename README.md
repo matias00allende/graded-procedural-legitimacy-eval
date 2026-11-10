@@ -63,4 +63,6 @@ The code (`scripts/`) is published under the MIT license (`LICENSE`). The data a
 
 A machine-readable citation is in `CITATION.cff`.
 
+Full text (preprint, English and Spanish): Allende Contreras, M. I. (2026). *Do language models tell a procedural gap from fabricated authority?* Figshare. https://doi.org/10.6084/m9.figshare.34969843.v1
+
 Suggested citation: Allende Contreras, M. I. (2026). *Graded procedural legitimacy under hierarchical authority: evaluation data, code and preregistration*. GitHub, matias00allende/graded-procedural-legitimacy-eval.

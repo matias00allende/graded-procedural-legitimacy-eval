@@ -17,3 +17,13 @@ keywords:
   - evaluation
   - procedural legitimacy
   - preregistration
+references:
+  - type: article
+    title: "Do language models tell a procedural gap from fabricated authority?"
+    authors:
+      - family-names: "Allende Contreras"
+        given-names: "Matías Ignacio"
+    year: 2026
+    doi: "10.6084/m9.figshare.34969843.v1"
+    url: "https://doi.org/10.6084/m9.figshare.34969843.v1"
+    notes: "Full text (preprint) in English and Spanish, deposited on Figshare."
